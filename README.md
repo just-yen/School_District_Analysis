@@ -22,7 +22,7 @@ Due to academic dishonesty by ninth graders at Thomas High School the state scho
   - Passing Reading % dropped by 27.35%
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-- Thomas High School dropped out of the Top 5 High Performance School List 
+  - Thomas High School dropped out of the Top 5 High Performance School List 
 
 - How does replacing the ninth-grade scores affect the following
   - Math and reading scores by grade 
